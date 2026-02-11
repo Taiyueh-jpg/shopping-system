@@ -27,3 +27,34 @@ C. 後台：管理員系統
         ●	自動記錄：系統會自動抓取結帳當下的「會員名稱」寫入訂單，而非顯示訪客。
         ●	進階搜尋：可輸入「最低金額」與「最高金額」，篩選出特定價格範圍的訂單 (例如查詢高單價消費)。
 
+
+        # 會員登入系統
+## 會員登入系統
+### 會員登入系統
+#### 會員登入系統
+##### 會員登入系統
+###### 會員登入系統hh
+
+jghsadjgjgjhgjhgjgjhgjhgjhgjhggg<br>
+jgbjhggjgjgj
+<hr>
+jhgjhgjgjhgjg<br>
+
+[google](http://www.google.com)
+
+[yahoo](http://tw.yahoo.com)
+
+[練習](exam.txt)
+
+[school技術文件](doc/index.html)
+
+[講義](doc/6_JavaEEApplication.pdf)
+
+
+
+
+![咖啡](pic/c.jpg?raw=true)
+
+[demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
+
+
